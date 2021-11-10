@@ -5,4 +5,6 @@
 </p>
 <h4 align="center">Automate your life.</h4>
 
+<hr/>
+
 This is an signalco's custom GitHub organization profile README repository.
