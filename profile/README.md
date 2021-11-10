@@ -9,5 +9,5 @@
 
 <h3 align="center">Welcome to signalco's GitHub.</h3>
 
-<h3 align="center">Bellow are pinned repositories that we think you might be interested in. You can start by visiting <i>signalco</i> repository for more info.</h3>
+<h3 align="center">Bellow are pinned repositories that we think you might be interested in.<br/>You can start by visiting <i>signalco</i> repository for more info.</h3>
 &nbsp;
