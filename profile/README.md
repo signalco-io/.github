@@ -4,7 +4,9 @@
   </a>
 </p>
 <h4 align="center">Automate your life.</h4>
+&nbsp;
+<hr/>
+&nbsp;
+<h3 align="center">Welcome to signalco's GitHub.</h3>
 
-Welcome to signalco's GitHub.
-
-Bellow are pinned repositories that we think you might be interested in. Start by visiting `signalco` repository for more info.
+<h3 align="center">Bellow are pinned repositories that we think you might be interested in. You can start by visiting <i>signalco</i> repository for more info.</h3>
