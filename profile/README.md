@@ -8,9 +8,21 @@
 </p>
 <h4 align="center">Automate your life.</h4>
 
-<hr/>
+Welcome to signalco's GitHub. Start with [signalco](https://github.com/signalco-io/signalco), or
+explore the pinned repositories below.
 
-<h3 align="center">Welcome to signalco's GitHub.</h3>
+## uier
 
-<h3 align="center">Bellow are pinned repositories that we think you might be interested in.<br/>You can start by visiting <a href="https://github.com/signalco-io/signalco">signalco</a> repository for more info.</h3>
-&nbsp;
+[![uier · Say it on the page.](https://raw.githubusercontent.com/signalco-io/.github/main/profile/assets/uier-social-preview.png)](https://uier.io)
+
+Review any live website by leaving comments directly on it. Pin feedback to an element or selected
+text, discuss it with your team, and mark it done. Each comment keeps the browser and viewport it
+was left from, with a screenshot when capture succeeds.
+
+[Try uier](https://uier.io) · [Open the app](https://uier.io/app) · [Source code](https://github.com/signalco-io/uier) · [Documentation](https://github.com/signalco-io/uier/blob/main/docs/README.md)
+
+Every feature available today is free and will stay free forever. If we introduce pricing, it will
+apply only to new features users want.
+
+A signalco project. For product help, email [contact@signalco.io](mailto:contact@signalco.io).
+For bugs and ideas, [open an issue](https://github.com/signalco-io/uier/issues/new/choose).
